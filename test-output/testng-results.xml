@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T13:01:17 IST" name="Default suite" finished-at="2024-12-16T13:01:23 IST" duration-ms="6082">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T13:01:17 IST" name="Default test" finished-at="2024-12-16T13:01:23 IST" duration-ms="6082">
+      <class name="api_Udemy.testWith_StaticJsonPayload">
+        <test-method signature="POST_reqst()[pri:1, instance:api_Udemy.testWith_StaticJsonPayload@1623b78d]" started-at="2024-12-16T13:01:17 IST" name="POST_reqst" finished-at="2024-12-16T13:01:23 IST" duration-ms="6037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POST_reqst -->
+      </class> <!-- api_Udemy.testWith_StaticJsonPayload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
